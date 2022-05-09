@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #6495ED;
+    border: solid black;
+    border-radius: 30px;
+}
+
+header h1 {
+    font-size: xx-large;
+}
+
+body {
+    background-color: #B9D9EB;
+}
+
+
+

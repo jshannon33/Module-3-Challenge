@@ -8,4 +8,4 @@ function TestFunction() {
     T.style.display = displayValue;
 }
 
-document.getElementById('length1').value;
+
